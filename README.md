@@ -16,5 +16,9 @@ Your tasks are to do the following:
 - Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-### Observations
+### Observation of the data:
+
+1. In the output of cell 19, you can see that there is a positive correlation between mouse weight and average tumor volume when using the drug treatment Capomulin. The scatterplot shows the data moving in the same direction and with a correlation coefficient at 0.84, it is close to an almost perfect postive correlation.
+2. In the output of cell 17, you can see a line plot showing how mouse s185 did on the drug treatment Capomulin over time(days). It was tracked by looking at the total tumor volume (mm3) over time. You can see that over the course of the days plotted, the treatment of Capomulin decreases the amount of total tumor volume in the s185 mouse, which shows that the drug treatment is working well.
+3. In cell 13 and 14, we look at the distribution of male and female mice within the study. You can see from both pie charts that it is a pretty equal distribution of male and female mice being studied, with their being just a bit more male mice than female mice (51% to 49%).
 
